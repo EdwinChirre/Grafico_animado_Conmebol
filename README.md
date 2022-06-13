@@ -96,6 +96,17 @@ animate(anim, 100, fps = 6.5,  #width = 600, height = 500,
         renderer = av_renderer('evol_posiciones_conmebol.mp4')) 
 ```
 
+## BONUS TRACK!
+
+También les comparto el performance de las selecciones de Australia y Perú, para captar tendencia de quién viene mejor en resultados (no necesariamente se refleja en juego). 
+
+Se puede ver como Perú ha ido mejorando y luchando por ese último medio cupo a Qatar, mientras que Australia, empezó bien, y últimamente no viene consiguiendo buenos resultados (expeción su último partido contra EUA).
+
+<p align="center">
+  <img src="Previa_Peru_Australia_202206.jpeg" alt="animated" />
+</p>
+
+
 ### FIN: Espero les haya gustado. Queda pendiente hacerlo en medium paso a paso
 
         
