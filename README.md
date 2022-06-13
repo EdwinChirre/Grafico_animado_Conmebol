@@ -18,7 +18,9 @@ Se web scrapea la tabla de posiciones y resultados de cada equipo por fechas. Aq
 Se hace tratamiento a las tablas para poder adecuarlos a nuestro propósito. Las tablas están [aquí](https://github.com/EdwinChirre/Grafico_animado_Conmebol/tree/master/Data)
 
   a. data_posiciones_x_fecha.csv: Data armada sobre las posiciones de las selecciones por fechas.
+  
   b. data_puntos_x_fecha_acum: Data con los puntos acumulados de las selecciones por fechas.
+  
   c. data_final.csv: Data trabajada final (une ambas tablas)
 
 ### 2. Crear el gráfico estático
