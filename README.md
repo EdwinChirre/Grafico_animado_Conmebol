@@ -2,10 +2,6 @@
 
 A pocas horas de saber si hay un quinto clasificado sudamericano para el mundial Qatar 2022, me surgió la curiosidad de realizar un gráfico animado sobre cómo han ido cambiando las posiciones de las selecciones a lo largo de las 18 fechas.
 
-
-![image](https://github.com/EdwinChirre/Grafico_animado_Conmebol/blob/master/evol_posiciones_conmebol.gif)
-
-
 <p align="center">
   <img src="evol_posiciones_conmebol.gif" alt="animated" />
 </p>
