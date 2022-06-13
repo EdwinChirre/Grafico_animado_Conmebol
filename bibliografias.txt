@@ -1,0 +1,71 @@
+nota de referencia:
+https://towardsdatascience.com/how-to-create-plots-with-beautiful-animation-using-gganimate-912f4279b073
+
+como subir a github
+https://www.youtube.com/watch?v=gd-p2hJyaB8
+
+info data:
+https://www.transfermarkt.es/australia/spielplan/verein/3433/plus/0?saison_id=2020
+https://www.transfermarkt.es/paraguay/spielplan/verein/3581/plus/1?saison_id=2021
+
+https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2022
+https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_AFC_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2022
+
+Para las banderas:
+http://enrdados.net/post/graficas-con-ggplot-ii/
+https://stackoverflow.com/questions/59592706/issue-when-rendering-an-animated-plot-using-gganimate
+https://community.rstudio.com/t/trying-to-create-animated-bar-plot-with-sliding-bars-that-overtake-each-other/46528/10
+
+
+emojis de banderas
+https://github.com/jimjam-slam/ggflags
+
+emoji twitter
+https://www.emojistwitter.com/
+
+
+icons en graficos
+https://stackoverflow.com/questions/58677247/how-to-insert-pictures-into-each-individual-bar-in-a-ggplot-graph
+https://stackoverflow.com/questions/58793147/how-to-insert-several-images-into-a-bar-graph-using-ggtextures-and-ggplot
+https://stackoverflow.com/questions/63172183/put-images-with-text-as-ticklabels-with-ggplot2
+https://stackoverflow.com/questions/54973129/including-images-on-axis-label-in-an-animated-ggplot2
+https://stackoverflow.com/questions/68747698/r-ggplot2-images-as-y-axis-labels
+https://stackoverflow.com/questions/54973129/including-images-on-axis-label-in-an-animated-ggplot2
+https://stackoverflow.com/questions/62805157/how-to-include-image-in-a-animated-chart-bar-with-r
+
+
+
+Base de race graficos - inicial
+https://www.r-bloggers.com/2020/01/how-to-create-bar-race-animation-charts-in-r/
+https://github.com/amrrs/animated_bar_charts_in_R
+https://github.com/thomasp85/gganimate/issues/317
+https://mran.microsoft.com/snapshot/2018-05-23/web/packages/ggimage/vignettes/ggimage.html
+https://github.com/thomasp85/gganimate/issues/317
+
+
+
+racing barchart
+https://evamaerey.github.io/little_flipbooks_library/racing_bars/racing_barcharts.html#1
+
+Para el procesamiento de datos
+https://stackoverflow.com/questions/21818427/how-to-add-a-cumulative-column-to-an-r-dataframe-using-dplyr
+
+imagen dentro de los graficos:
+https://stackoverflow.com/questions/9917049/inserting-an-image-to-ggplot2
+https://cran.r-project.org/web/packages/magick/vignettes/intro.html
+
+
+#Para recrear el gol de peru
+https://www.r-bloggers.com/2018/06/visualize-the-world-cup-with-r-part-1-recreating-goals-with-ggsoccer-and-ggplot2-2/
+
+Estilos de letra title
+https://ggplot2.tidyverse.org/articles/ggplot2-specs.html
+
+imagenes:
+https://www.google.com/search?q=logo+del+mundial+qatar+2022+png+vector&tbm=isch&ved=2ahUKEwiwirSi9KT4AhVzOLkGHSDmCcEQ2-cCegQIABAA&oq=logo+del+mundial+qatar+2022+png+vector&gs_lcp=CgNpbWcQDDoECCMQJzoFCAAQgAQ6BggAEB4QCDoECAAQHlCvEljxL2DOR2gJcAB4AIABaYgBwgeSAQQxMi4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=kUikYvD9GfPw5OUPoMyniAw&bih=696&biw=1536#imgrc=NXD158R_o8CmKM
+
+themes:
+http://www.sthda.com/english/wiki/ggplot2-themes-and-background-colors-the-3-elements
+
+para videos:
+https://github.com/ropensci/av
