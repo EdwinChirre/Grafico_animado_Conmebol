@@ -6,6 +6,11 @@ A pocas horas de saber si hay un quinto clasificado sudamericano para el mundial
 ![image](https://github.com/EdwinChirre/Grafico_animado_Conmebol/blob/master/evol_posiciones_conmebol.gif)
 
 
+<p align="center">
+  <img src="evol_posiciones_conmebol.gif" alt="animated" />
+</p>
+
+
 Si quieren replicarlo o hacer uno parecido para las ligas de sus países, les dejaré el [código](https://github.com/EdwinChirre/Grafico_animado_Conmebol/blob/master/Crear_grafico_animado_Conmebol.R) y los pasos a grandes rasgos de cómo pude hacer el gráfico y guardarlo como gif y video.
 
 ## Pasos para realizar el gráfico animado
