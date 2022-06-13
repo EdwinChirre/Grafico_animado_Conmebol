@@ -102,6 +102,7 @@ También les comparto el performance de las selecciones de Australia y Perú, pa
 
 Se puede ver como Perú ha ido mejorando y luchando por ese último medio cupo a Qatar, mientras que Australia, empezó bien, y últimamente no viene consiguiendo buenos resultados (expeción su último partido contra EUA).
 
+
 <p align="center">
   <img src="Previa_Peru_Australia_202206.jpeg" alt="animated" />
 </p>
